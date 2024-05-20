@@ -1,0 +1,121 @@
+SampleID	SampleIDBac	Sample_IDa	Treatment_Descrip	Replication	Sampling_Location	Sampling_Time	Sampling_Year	Date	Season	Lab	NucliecAcid	TreatmentCode	Replication_Code	FertMan	NI	NIT	NI_app	NI_ Cons.	Tillage	Year_Time	Crop
+KL22Fun-1	KL22Bac-1	22EH1	"Control (no NI, no fertilizer)"	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	C	a	No	No	No	No	0	PL	2022_Early	SpringBarley
+KL22Fun-2	KL22Bac-2	22EH2	"Control (no NI, no fertilizer)"	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	C	b	No	No	No	No	0	PL	2022_Early	SpringBarley
+KL22Fun-3	KL22Bac-3	22EH3	"Control (no NI, no fertilizer)"	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	C	c	No	No	No	No	0	PL	2022_Early	SpringBarley
+KL22Fun-4	KL22Bac-4	22EH4	pig slurry	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PS	a	PS	No	No	No	0	PL	2022_Early	SpringBarley
+KL22Fun-5	KL22Bac-5	22EH5	pig slurry	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PS	b	PS	No	No	No	0	PL	2022_Early	SpringBarley
+KL22Fun-6	KL22Bac-6	22EH6	pig slurry	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PS	c	PS	No	No	No	0	PL	2022_Early	SpringBarley
+KL22Fun-7	KL22Bac-7	22EH7	pig slurry with Vizura	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV1	a	PS	Vizura	DMPP	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-8	KL22Bac-8	22EH8	pig slurry with Vizura	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV1	b	PS	Vizura	DMPP	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-9	KL22Bac-9	22EH9	pig slurry with Vizura	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV1	c	PS	Vizura	DMPP	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-10	KL22Bac-10	22EH10	pig slurry with Vizura	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV3	a	PS	Vizura	DMPP	Yes	3	PL	2022_Early	SpringBarley
+KL22Fun-11	KL22Bac-11	22EH11	pig slurry with Vizura	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV3	b	PS	Vizura	DMPP	Yes	3	PL	2022_Early	SpringBarley
+KL22Fun-12	KL22Bac-12	22EH12	pig slurry with Vizura	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV3	c	PS	Vizura	DMPP	Yes	3	PL	2022_Early	SpringBarley
+KL22Fun-13	KL22Bac-13	22EH13	pig slurry with Vizura	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV10	a	PS	Vizura	DMPP	Yes	10	PL	2022_Early	SpringBarley
+KL22Fun-14	KL22Bac-14	22EH14	pig slurry with Vizura	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV10	b	PS	Vizura	DMPP	Yes	10	PL	2022_Early	SpringBarley
+KL22Fun-15	KL22Bac-15	22EH15	pig slurry with Vizura	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PV10	c	PS	Vizura	DMPP	Yes	10	PL	2022_Early	SpringBarley
+KL22Fun-16	KL22Bac-16	22EH16	pig slurry with Instinct	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI1	a	PS	Instinct	Nitrapyrin	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-17	KL22Bac-17	22EH17	pig slurry with Instinct	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI1	b	PS	Instinct	Nitrapyrin	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-18	KL22Bac-18	22EH18	pig slurry with Instinct	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI1	c	PS	Instinct	Nitrapyrin	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-19	KL22Bac-19	22EH19	pig slurry with Instinct	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI3	a	PS	Instinct	Nitrapyrin	Yes	3	PL	2022_Early	SpringBarley
+KL22Fun-20	KL22Bac-20	22EH20	pig slurry with Instinct	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI3	b	PS	Instinct	Nitrapyrin	Yes	3	PL	2022_Early	SpringBarley
+KL22Fun-21	KL22Bac-21	22EH21	pig slurry with Instinct	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI3	c	PS	Instinct	Nitrapyrin	Yes	3	PL	2022_Early	SpringBarley
+KL22Fun-22	KL22Bac-22	22EH22	pig slurry with Instinct	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI10	a	PS	Instinct	Nitrapyrin	Yes	10	PL	2022_Early	SpringBarley
+KL22Fun-23	KL22Bac-23	22EH23	pig slurry with Instinct	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI10	b	PS	Instinct	Nitrapyrin	Yes	10	PL	2022_Early	SpringBarley
+KL22Fun-24	KL22Bac-24	22EH24	pig slurry with Instinct	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	PI10	c	PS	Instinct	Nitrapyrin	Yes	10	PL	2022_Early	SpringBarley
+KL22Fun-25	KL22Bac-25	22EH25	Chemical fertilizer NS 	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	NS	a	NS	No	No	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-26	KL22Bac-26	22EH26	Chemical fertilizer NS 	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	NS	b	NS	No	No	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-27	KL22Bac-27	22EH27	Chemical fertilizer NS 	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	NS	c	NS	No	No	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-28	KL22Bac-28	22EH28	Chemical fertilizer NS + DMPP	1	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	NS_DMPP	a	NS	DMPP	DMPP	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-29	KL22Bac-29	22EH29	Chemical fertilizer NS + DMPP	2	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	NS_DMPP	b	NS	DMPP	DMPP	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-30	KL22Bac-30	22EH30	Chemical fertilizer NS + DMPP	3	Højbakkegaard	Early_15d	2022		Spring	Tanja	DNA	NS_DMPP	c	NS	DMPP	DMPP	Yes	1	PL	2022_Early	SpringBarley
+KL22Fun-31	KL22Bac-31	22LH1	"Control (no NI, no fertilizer)"	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	C	a	No	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-32	KL22Bac-32	22LH2	"Control (no NI, no fertilizer)"	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	C	b	No	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-33	KL22Bac-33	22LH3	"Control (no NI, no fertilizer)"	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	C	c	No	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-34	KL22Bac-34	22LH4	pig slurry	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PS	a	PS	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-35	KL22Bac-35	22LH5	pig slurry	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PS	b	PS	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-36	KL22Bac-36	22LH6	pig slurry	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PS	c	PS	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-37	KL22Bac-37	22LH7	pig slurry with Vizura	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV1	a	PS	Vizura	DMPP	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-38	KL22Bac-38	22LH8	pig slurry with Vizura	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV1	b	PS	Vizura	DMPP	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-39	KL22Bac-39	22LH9	pig slurry with Vizura	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV1	c	PS	Vizura	DMPP	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-40	KL22Bac-40	22LH10	pig slurry with Vizura	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV3	a	PS	Vizura	DMPP	Yes	3	PL	2022_Late	SpringBarley
+KL22Fun-41	KL22Bac-41	22LH11	pig slurry with Vizura	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV3	b	PS	Vizura	DMPP	Yes	3	PL	2022_Late	SpringBarley
+KL22Fun-42	KL22Bac-42	22LH12	pig slurry with Vizura	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV3	c	PS	Vizura	DMPP	Yes	3	PL	2022_Late	SpringBarley
+KL22Fun-43	KL22Bac-43	22LH13	pig slurry with Vizura	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV10	a	PS	Vizura	DMPP	Yes	10	PL	2022_Late	SpringBarley
+KL22Fun-44	KL22Bac-44	22LH14	pig slurry with Vizura	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV10	b	PS	Vizura	DMPP	Yes	10	PL	2022_Late	SpringBarley
+KL22Fun-45	KL22Bac-45	22LH15	pig slurry with Vizura	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PV10	c	PS	Vizura	DMPP	Yes	10	PL	2022_Late	SpringBarley
+KL22Fun-46	KL22Bac-46	22LH16	pig slurry with Instinct	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI1	a	PS	Instinct	Nitrapyrin	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-47	KL22Bac-47	22LH17	pig slurry with Instinct	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI1	b	PS	Instinct	Nitrapyrin	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-48	KL22Bac-48	22LH18	pig slurry with Instinct	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI1	c	PS	Instinct	Nitrapyrin	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-49	KL22Bac-49	22LH19	pig slurry with Instinct	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI3	a	PS	Instinct	Nitrapyrin	Yes	3	PL	2022_Late	SpringBarley
+KL22Fun-50	KL22Bac-50	22LH20	pig slurry with Instinct	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI3	b	PS	Instinct	Nitrapyrin	Yes	3	PL	2022_Late	SpringBarley
+KL22Fun-51	KL22Bac-51	22LH21	pig slurry with Instinct	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI3	c	PS	Instinct	Nitrapyrin	Yes	3	PL	2022_Late	SpringBarley
+KL22Fun-52	KL22Bac-52	22LH22	pig slurry with Instinct	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI10	a	PS	Instinct	Nitrapyrin	Yes	10	PL	2022_Late	SpringBarley
+KL22Fun-53	KL22Bac-53	22LH23	pig slurry with Instinct	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI10	b	PS	Instinct	Nitrapyrin	Yes	10	PL	2022_Late	SpringBarley
+KL22Fun-54	KL22Bac-54	22LH24	pig slurry with Instinct	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	PI10	c	PS	Instinct	Nitrapyrin	Yes	10	PL	2022_Late	SpringBarley
+KL22Fun-55	KL22Bac-55	22LH25	Chemical fertilizer NS	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	NS	a	NS	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-56	KL22Bac-56	22LH26	Chemical fertilizer NS	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	NS	b	NS	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-57	KL22Bac-57	22LH27	Chemical fertilizer NS	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	NS	c	NS	No	No	No	0	PL	2022_Late	SpringBarley
+KL22Fun-58	KL22Bac-58	22LH28	Chemical fertilizer NS + DMPP	1	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	NS_DMPP	a	NS	DMPP	DMPP	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-59	KL22Bac-59	22LH29	Chemical fertilizer NS + DMPP	2	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	NS_DMPP	b	NS	DMPP	DMPP	Yes	1	PL	2022_Late	SpringBarley
+KL22Fun-60	KL22Bac-60	22LH30	Chemical fertilizer NS + DMPP	3	Højbakkegaard	Late_50d	2022		Fall	Tanja	DNA	NS_DMPP	c	NS	DMPP	DMPP	Yes	1	PL	2022_Late	SpringBarley
+ITS2023-adp-H1	Bac2023-adp-H1	H1L	"control (no NI, no fertilizer)"	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	C	a	No	No	No	No	0	PL	2023_Late	
+ITS2023-adp-H2	Bac2023-adp-H2	H2L	"control (no NI, no fertilizer)"	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	C	b	No	No	No	No	0	PL	2023_Late	
+ITS2023-adp-H3	Bac2023-adp-H3	H3L	"control (no NI, no fertilizer)"	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	C	c	No	No	No	No	0	PL	2023_Late	
+ITS2023-adp-H4	Bac2023-adp-H4	H4L	Pig slurry (PS)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PS	a	PS	No	No	No	0	PL	2023_Late	
+ITS2023-adp-H5	Bac2023-adp-H5	H5L	Pig slurry (PS)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PS	b	PS	No	No	No	0	PL	2023_Late	
+ITS2023-adp-H6	Bac2023-adp-H6	H6L	Pig slurry (PS)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PS	c	PS	No	No	No	0	PL	2023_Late	
+ITS2023-adp-H7	Bac2023-adp-H7	H7L	PS Vizura 1 (PV1)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV1	a	PS	Vizura	DMPP	Yes	1	PL	2023_Late	
+ITS2023-adp-H8	Bac2023-adp-H8	H8L	PS Vizura 1 (PV1)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV1	b	PS	Vizura	DMPP	Yes	1	PL	2023_Late	
+ITS2023-adp-H9	Bac2023-adp-H9	H9L	PS Vizura 1 (PV1)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV1	c	PS	Vizura	DMPP	Yes	1	PL	2023_Late	
+ITS2023-adp-H10	Bac2023-adp-H10	H10L	PS Vizura 3 (PV3)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV3	a	PS	Vizura	DMPP	Yes	3	PL	2023_Late	
+ITS2023-adp-H11	Bac2023-adp-H11	H11L	PS Vizura 3 (PV3)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV3	b	PS	Vizura	DMPP	Yes	3	PL	2023_Late	
+ITS2023-adp-H12	Bac2023-adp-H12	H12L	PS Vizura 3 (PV3)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV3	c	PS	Vizura	DMPP	Yes	3	PL	2023_Late	
+ITS2023-adp-H13	Bac2023-adp-H13	H13L	PS Vizura 10 (PV10)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV10	a	PS	Vizura	DMPP	Yes	10	PL	2023_Late	
+ITS2023-adp-H14	Bac2023-adp-H14	H14L	PS Vizura 10 (PV10)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV10	b	PS	Vizura	DMPP	Yes	10	PL	2023_Late	
+ITS2023-adp-H15	Bac2023-adp-H15	H15L	PS Vizura 10 (PV10)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PV10	c	PS	Vizura	DMPP	Yes	10	PL	2023_Late	
+ITS2023-adp-H16	Bac2023-adp-H16	H16L	PS Instinct 1 (PI1)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI1	a	PS	Instinct	Nitrapyrin	Yes	1	PL	2023_Late	
+ITS2023-adp-H17	Bac2023-adp-H17	H17L	PS Instinct 1 (PI1)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI1	b	PS	Instinct	Nitrapyrin	Yes	1	PL	2023_Late	
+ITS2023-adp-H18	Bac2023-adp-H18	H18L	PS Instinct 1 (PI1)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI1	c	PS	Instinct	Nitrapyrin	Yes	1	PL	2023_Late	
+ITS2023-adp-H19	Bac2023-adp-H19	H19L	PS Instinct 3 (PI3)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI3	a	PS	Instinct	Nitrapyrin	Yes	3	PL	2023_Late	
+ITS2023-adp-H20	Bac2023-adp-H20	H20L	PS Instinct 3 (PI3)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI3	b	PS	Instinct	Nitrapyrin	Yes	3	PL	2023_Late	
+ITS2023-adp-H21	Bac2023-adp-H21	H21L	PS Instinct 3 (PI3)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI3	c	PS	Instinct	Nitrapyrin	Yes	3	PL	2023_Late	
+ITS2023-adp-H22	Bac2023-adp-H22	H22L	PS Instinct 10 (PI10)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI10	a	PS	Instinct	Nitrapyrin	Yes	10	PL	2023_Late	
+ITS2023-adp-H23	Bac2023-adp-H23	H23L	PS Instinct 10 (PI10)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI10	b	PS	Instinct	Nitrapyrin	Yes	10	PL	2023_Late	
+ITS2023-adp-H24	Bac2023-adp-H24	H24L	PS Instinct 10 (PI10)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	PI10	c	PS	Instinct	Nitrapyrin	Yes	10	PL	2023_Late	
+ITS2023-adp-H25	Bac2023-adp-H25	H25L	Chemical fertilizer (NS)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	NS	a	NS	No	No	Yes	1	PL	2023_Late	
+ITS2023-adp-H26	Bac2023-adp-H26	H26L	Chemical fertilizer (NS)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	NS	b	NS	No	No	Yes	1	PL	2023_Late	
+ITS2023-adp-H27	Bac2023-adp-H27	H27L	Chemical fertilizer (NS)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	NS	c	NS	No	No	Yes	1	PL	2023_Late	
+ITS2023-adp-H28	Bac2023-adp-H28	H28L	Chemical fertilizer NS ENTEC (NE)	1	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	NS_DMPP	a	NS	DMPP	DMPP	Yes	1	PL	2023_Late	
+ITS2023-adp-H29	Bac2023-adp-H29	H29L	Chemical fertilizer NS ENTEC (NE)	2	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	NS_DMPP	b	NS	DMPP	DMPP	Yes	1	PL	2023_Late	
+ITS2023-adp-H30	Bac2023-adp-H30	H30L	Chemical fertilizer NS ENTEC (NE)	3	Højbakkegaard	Late_50d	2023	18-08-2023	Fall	Tina	DNA	NS_DMPP	c	NS	DMPP	DMPP	Yes	1	PL	2023_Late	
+ITS2023-PAN-H1	Bac2023-PAN-H1	H1E	"control (no NI, no fertilizer)"	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	C	a	No	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H2	Bac2023-PAN-H2	H2E	"control (no NI, no fertilizer)"	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	C	b	No	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H3	Bac2023-PAN-H3	H3E	"control (no NI, no fertilizer)"	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	C	c	No	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H4	Bac2023-PAN-H4	H4E	Pig slurry (PS)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PS	a	PS	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H5	Bac2023-PAN-H5	H5E	Pig slurry (PS)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PS	b	PS	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H6	Bac2023-PAN-H6	H6E	Pig slurry (PS)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PS	c	PS	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H7	Bac2023-PAN-H7	H7E	PS Vizura 1 (PV1)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV1	a	PS	Vizura	DMPP	Yes	1	PL	2023_Early	
+ITS2023-PAN-H8	Bac2023-PAN-H8	H8E	PS Vizura 1 (PV1)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV1	b	PS	Vizura	DMPP	Yes	1	PL	2023_Early	
+ITS2023-PAN-H9	Bac2023-PAN-H9	H9E	PS Vizura 1 (PV1)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV1	c	PS	Vizura	DMPP	Yes	1	PL	2023_Early	
+ITS2023-PAN-H10	Bac2023-PAN-H10	H10E	PS Vizura 3 (PV3)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV3	a	PS	Vizura	DMPP	Yes	3	PL	2023_Early	
+ITS2023-PAN-H11	Bac2023-PAN-H11	H11E	PS Vizura 3 (PV3)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV3	b	PS	Vizura	DMPP	Yes	3	PL	2023_Early	
+ITS2023-PAN-H12	Bac2023-PAN-H12	H12E	PS Vizura 3 (PV3)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV3	c	PS	Vizura	DMPP	Yes	3	PL	2023_Early	
+ITS2023-PAN-H13	Bac2023-PAN-H13	H13E	PS Vizura 10 (PV10)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV10	a	PS	Vizura	DMPP	Yes	10	PL	2023_Early	
+ITS2023-PAN-H14	Bac2023-PAN-H14	H14E	PS Vizura 10 (PV10)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV10	b	PS	Vizura	DMPP	Yes	10	PL	2023_Early	
+ITS2023-PAN-H15	Bac2023-PAN-H15	H15E	PS Vizura 10 (PV10)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PV10	c	PS	Vizura	DMPP	Yes	10	PL	2023_Early	
+ITS2023-PAN-H16	Bac2023-PAN-H16	H16E	PS Instinct 1 (PI1)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI1	a	PS	Instinct	Nitrapyrin	Yes	1	PL	2023_Early	
+ITS2023-PAN-H17	Bac2023-PAN-H17	H17E	PS Instinct 1 (PI1)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI1	b	PS	Instinct	Nitrapyrin	Yes	1	PL	2023_Early	
+ITS2023-PAN-H18	Bac2023-PAN-H18	H18E	PS Instinct 1 (PI1)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI1	c	PS	Instinct	Nitrapyrin	Yes	1	PL	2023_Early	
+ITS2023-PAN-H19	Bac2023-PAN-H19	H19E	PS Instinct 3 (PI3)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI3	a	PS	Instinct	Nitrapyrin	Yes	3	PL	2023_Early	
+ITS2023-PAN-H20	Bac2023-PAN-H20	H20E	PS Instinct 3 (PI3)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI3	b	PS	Instinct	Nitrapyrin	Yes	3	PL	2023_Early	
+ITS2023-PAN-H21	Bac2023-PAN-H21	H21E	PS Instinct 3 (PI3)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI3	c	PS	Instinct	Nitrapyrin	Yes	3	PL	2023_Early	
+ITS2023-PAN-H22	Bac2023-PAN-H22	H22E	PS Instinct 10 (PI10)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI10	a	PS	Instinct	Nitrapyrin	Yes	10	PL	2023_Early	
+ITS2023-PAN-H23	Bac2023-PAN-H23	H23E	PS Instinct 10 (PI10)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI10	b	PS	Instinct	Nitrapyrin	Yes	10	PL	2023_Early	
+ITS2023-PAN-H24	Bac2023-PAN-H24	H24E	PS Instinct 10 (PI10)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	PI10	c	PS	Instinct	Nitrapyrin	Yes	10	PL	2023_Early	
+ITS2023-PAN-H25	Bac2023-PAN-H25	H25E	Chemical fertilizer (NS)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	NS	a	NS	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H26	Bac2023-PAN-H26	H26E	Chemical fertilizer (NS)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	NS	b	NS	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H27	Bac2023-PAN-H27	H27E	Chemical fertilizer (NS)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	NS	c	NS	No	No	No	0	PL	2023_Early	
+ITS2023-PAN-H28	Bac2023-PAN-H28	H28E	Chemical fertilizer NS ENTEC (NE)	1	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	NS_DMPP	a	NS	DMPP	DMPP	Yes	1	PL	2023_Early	
+ITS2023-PAN-H29	Bac2023-PAN-H29	H29E	Chemical fertilizer NS ENTEC (NE)	2	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	NS_DMPP	b	NS	DMPP	DMPP	Yes	1	PL	2023_Early	
+ITS2023-PAN-H30	Bac2023-PAN-H30	H30E	Chemical fertilizer NS ENTEC (NE)	3	Højbakkegaard	Early_15d	2023		Spring	Pan	RNA	NS_DMPP	c	NS	DMPP	DMPP	Yes	1	PL	2023_Early	
